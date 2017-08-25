@@ -17,11 +17,16 @@ html, body {
 .push {
     height: 24px;
 }
+#marathon {
+  font-size: 15pt;
+  font-family: helvetica;
+  font-variant: small-caps;
+}
 #body {
-  background-color: #3ecde0;
+  background-color: #cef7ff;
 }
 #contact{
-  color: white;
+  color: hotpink;
   text-shadow: .75pt .75pt black;
 }
 #photos {
@@ -37,8 +42,8 @@ html, body {
   text-align: center;
 }
 #header-img {
-  background-image: url("img/banner00.png");
-  background-size: 100% 100%;
+  background-image: url("img/banner00.gif");
+  background-size: 100% inherit;
 }
 #headtxt {
   text-align: center;
