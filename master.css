@@ -22,6 +22,11 @@ html, body {
   font-family: helvetica;
   font-variant: small-caps;
 }
+#body-font {
+  font-size: 15pt;
+  font-family: helvetica;
+  text-align: justify;
+}
 #body {
   background-color: #cef7ff;
 }
@@ -44,6 +49,7 @@ html, body {
 #header-img {
   background-image: url("img/banner00.gif");
   background-size: 100% inherit;
+  background-position: center;
 }
 #headtxt {
   text-align: center;
