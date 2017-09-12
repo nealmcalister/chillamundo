@@ -25,7 +25,6 @@ html, body {
 #body-font {
   font-size: 15pt;
   font-family: helvetica;
-  text-align: justify !important;
 }
 #body {
   background-color: #cef7ff;
