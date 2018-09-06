@@ -1,0 +1,2 @@
+                <img src="img/banner00.gif" class="img-responsive"></img>
+                <p id="txtpromo">Paper Airplane</p>

@@ -1,93 +1,11 @@
-* {
-  margin: 0;
-}
 html, body {
     height: 100%;
-    overflow: scroll !important
-}
-.wrapper {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    margin: 0 auto -24px;
-}
-.footer {
-    height: 24px;
-}
-.push {
-    height: 24px;
-}
-#marathon {
-  font-size: 15pt;
-  font-family: helvetica;
-  font-variant: small-caps;
-}
-#body-font {
-  font-size: 15pt;
-  font-family: helvetica;
-}
-#body {
-  background-color: #cef7ff;
-}
-#contact{
-  color: hotpink;
-  text-shadow: .75pt .75pt black;
-}
-#photos {
     width: 100%;
-    height: inherit;
-    border: 15px white;
-    padding: 1.5pt;
-    background-color: black;
+    overflow-x: hidden;
 }
-#caption-ph-pg {
-  font-size: 12px;
-  color: black;
-  text-align: center;
-}
-#header-img {
-  background-image: url("img/banner00.gif");
-  background-size: 100% inherit;
-  background-position: center;
-}
-#headtxt {
-  text-align: center;
-  padding: 35px;
-}
-#headtxtimg{
-  height: inherit;
-  width: 100%;
-}
-#smhd {
-  text-align: center;
-}
-#headnav{
-  background-color: black;
-}
-#nav {
-  list-style-type: none;
-  margin: auto;
-  padding-left: 0px;
-  padding-right: 0px;
-  text-align: center;
+#txtpromo {
+  font-size: 15pt;
+  font-family: courier;
+  font-variant: small-caps;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-#nav-li {
-  font-family: "bookman old style";
-  display: inline;
-  color: darkgrey;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-#anav:link {
-  color: grey;
-}
-#anav:visited {
-  color: grey;
-}
-#anav:hover {
-  text-decoration: none;
-  color: #3ecde0;
 }
