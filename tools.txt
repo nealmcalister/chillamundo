@@ -1,2 +1,6 @@
                 <img src="img/banner00.gif" class="img-responsive"></img>
+
                 <p id="txtpromo">Paper Airplane</p>
+
+                <iframe src="https://open.spotify.com/embed/album/73sZBP9MbocidQ4yEss4Qa" width="300" height="280" frameborder="0" allowtransparency="true">
+                  </iframe>

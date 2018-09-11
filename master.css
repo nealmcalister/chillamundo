@@ -9,3 +9,38 @@ html, body {
   font-variant: small-caps;
   color: white;
 }
+#headnav{
+  background-color: black;
+}
+#nav {
+  list-style-type: none;
+  margin: auto;
+  font-family: "helvetica";
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#nav-li {
+  font-family: "helvetica";
+  font-variant: small-caps;
+  font-size: 12pt;
+  display: inline;
+  color: darkgrey;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#anav:link {
+  color: white;
+  text-decoration: underline;
+}
+#anav:visited {
+  color: white;
+  text-decoration: underline;
+}
+#anav:hover {
+  color: red;
+}
