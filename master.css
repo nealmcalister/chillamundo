@@ -21,7 +21,13 @@ html, body {
   text-align: center;
   color: white;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+#icon {
+  height: 30px;
+  width: inherit;
+  display: inline;
 }
 #nav-li {
   font-family: "helvetica";
@@ -32,7 +38,11 @@ html, body {
   padding-left: 5px;
   padding-right: 5px;
 }
-
+#background-img {
+  background-image: url("img/ppap.jpg");
+  background-size: 100% inherit;
+  background-position: center;
+}
 #anav:link {
   color: white;
   text-decoration: underline;
